@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'rubocop-diff'
   spec.version       = Rubocop::Diff::VERSION
   spec.authors       = ['Richard McGain']
-  spec.email         = ['richard.mcgain@shopify.com']
+  spec.email         = ['mcgain@gmail.com']
 
   spec.summary       = %q{run rubocop only on your changes}
   spec.homepage      = 'https://www.github.com/mcgain/rubocop-diff'
